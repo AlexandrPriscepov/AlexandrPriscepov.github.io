@@ -5,12 +5,28 @@
     <link>https://example.com/tag/interesting/</link>
       <atom:link href="https://example.com/tag/interesting/index.xml" rel="self" type="application/rss+xml" />
     <description>interesting</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 May 2022 14:16:47 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 May 2022 12:18:45 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>interesting</title>
       <link>https://example.com/tag/interesting/</link>
     </image>
+    
+    <item>
+      <title>Report formatting in markdown</title>
+      <link>https://example.com/post/post6/</link>
+      <pubDate>Sat, 21 May 2022 12:18:45 +0300</pubDate>
+      <guid>https://example.com/post/post6/</guid>
+      <description>&lt;p&gt;Reports with R Markdown&lt;/p&gt;
+&lt;p&gt;Making plots and being able to write output files is important. However, the most important part of any analysis is communicating your findings effectively! The rmarkdown package is one of the best and easiest ways of doing this. It let’s you create a fancy looking report without ever leaving RStudio. You can interleave your code and plots together with explanation text and formatting you might normally do in a tool like Microsoft Word. You can even make websites with it (like this one!)!&lt;/p&gt;
+&lt;p&gt;Let’s get started with R Markdown and make ourselves a sweet report.
+Creating an R Markdown notebook&lt;/p&gt;
+&lt;p&gt;In RStudio, go to File -&amp;gt; New File -&amp;gt; R Markdown. It will ask you what you want to call the file - leave the output as HTML for now.&lt;/p&gt;
+&lt;p&gt;You should see a file open with a lot of text and code already there. This is the default R Markdown document and comes with a lot of pointers about how to do things. For now, save the file as example.Rmd, and hit the “Knit” button.&lt;/p&gt;
+&lt;p&gt;If everything went well, you should see a nicely formatted webpage/ report pop up in RStudio’s built-in browser. Congratulations, you’ve made your first report!
+The stuff between the &amp;mdash;s is called YAML - it’s a markup format that describes what kind of document to make, who wrote it, and other technical bits that’s not actual content in your report. If you want, you can modify it, but let’s leave it be for now.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Markdown language</title>
