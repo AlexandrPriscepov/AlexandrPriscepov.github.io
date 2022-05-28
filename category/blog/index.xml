@@ -5,12 +5,21 @@
     <link>https://example.com/category/blog/</link>
       <atom:link href="https://example.com/category/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>blog</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 May 2022 12:16:06 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 May 2022 13:41:52 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>blog</title>
       <link>https://example.com/category/blog/</link>
     </image>
+    
+    <item>
+      <title>Blog 28.05</title>
+      <link>https://example.com/post/post7/</link>
+      <pubDate>Sat, 28 May 2022 13:41:52 +0300</pubDate>
+      <guid>https://example.com/post/post7/</guid>
+      <description>&lt;p&gt;last week i was doing lab work in the classroom.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Blog 21.05</title>

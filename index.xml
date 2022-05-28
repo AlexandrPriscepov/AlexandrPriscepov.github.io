@@ -34,6 +34,53 @@
     
     <item>
       <title>Report formatting in markdown</title>
+      <link>https://example.com/post/post8/</link>
+      <pubDate>Sat, 28 May 2022 13:42:00 +0300</pubDate>
+      <guid>https://example.com/post/post8/</guid>
+      <description>&lt;p&gt;Data science is still an emerging field and thus has a high-demand and lucrative job market. But for anyone looking to break into the data science industry, getting started can be daunting.&lt;/p&gt;
+&lt;p&gt;Some people go back to college, some teach themselves, and some attend data science bootcamps.&lt;/p&gt;
+&lt;p&gt;Regardless of which path you pick, though, data science involves high coding expertise. And like with many technical fields, skill demand and expectations are always evolving. In this year 2021, here are the best data science programming languages to learn.&lt;/p&gt;
+&lt;p&gt;First, just a little background into data science.
+What is data science?&lt;/p&gt;
+&lt;p&gt;Data Science is the study of information — and most companies are using data science to help make business decisions, solve complex problems and create strategies to improve results and performance. Data science is also heavily involved in machine learning, deep learning, and artificial intelligence.
+Why should you become a data scientist?&lt;/p&gt;
+&lt;p&gt;Learning data science can lead to a very lucrative career with a vast amount of employment opportunities. The demand for data scientists has greatly increased in recent years, and it will continue to do so, making now the perfect time to begin your journey to becoming a data scientist.&lt;/p&gt;
+&lt;p&gt;If a high paying job is what you are looking for, then data science is the right path for you. The average data scientist in the USA is making $113k per year, which is far beyond the national average income.  It’s also much higher than the average salary for than your typical data analyst.
+How do I get started in data science?&lt;/p&gt;
+&lt;p&gt;Data science does not require a 4-year degree but it is still necessary to become highly educated in the field, especially in big data and math. The best way to do this is by learning one or a couple more programming languages that are used in the field.&lt;/p&gt;
+&lt;p&gt;So, what coding languages do you need for data science? And what are the best language languages to learn to become a data scientist? We are going to take a deep dive into the many options that you should explore.
+What are programming languages?&lt;/p&gt;
+&lt;p&gt;Programming languages, to put it simply, are the languages used to write lines of code that make up a software program. These lines of code are digital instructions, commands, and other syntaxes that are translated into digital output. There are 5 main types of programming languages:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Procedural Programming Languages
+
+Functional Programming Languages
+
+Object-Oriented Programming Languages
+
+Scripting Programming Languages
+
+Logic Programming
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Each of these programming language types serves different functions and has specific advantages and disadvantages.
+What you need to consider when choosing the best programming language for your data science career path&lt;/p&gt;
+&lt;p&gt;The first thing to consider is the goal that you are trying to accomplish. Different tasks will require different levels of knowledge and specific languages may be more suited for the tasks that you are looking to complete.&lt;/p&gt;
+&lt;p&gt;Next you need to figure out how data science can help you accomplish the task at hand. Data science can automate or streamline many tasks that you may already be handling. This can save you a lot of time, and money.&lt;/p&gt;
+&lt;p&gt;You also need to figure out how skilled you are in the programming language(s) that you already know, and then decipher if you are ready to take your knowledge and bring it to the next level.&lt;/p&gt;
+&lt;p&gt;The last thing you will need to discover is at what scale your organization is using data science. This will help you determine what languages to learn as well as how you should learn to use them.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blog 28.05</title>
+      <link>https://example.com/post/post7/</link>
+      <pubDate>Sat, 28 May 2022 13:41:52 +0300</pubDate>
+      <guid>https://example.com/post/post7/</guid>
+      <description>&lt;p&gt;last week i was doing lab work in the classroom.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report formatting in markdown</title>
       <link>https://example.com/post/post6/</link>
       <pubDate>Sat, 21 May 2022 12:18:45 +0300</pubDate>
       <guid>https://example.com/post/post6/</guid>
@@ -316,15 +363,67 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Example Project</title>
+      <title>Individual project Personal website of a researcher</title>
       <link>https://example.com/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <description>&lt;p&gt;Stages of project implementation&lt;/p&gt;
+&lt;p&gt;1)Placement on Github pages of a blank for a personal site.
+Install the required software.
+Download website theme template.
+Host it on a git host.
+Set a parameter for site URLs.
+Place the site template on Github pages.&lt;/p&gt;
+&lt;p&gt;2)Add information about yourself to the site.
+List of added data.
+Post a photo of the site owner.
+Post a short description of the site owner (Biography).
+Add information about interests (Interests).
+Add information from education (Education).
+Make a post last week.
+Add a post on a topic of your choice:
+Version control. Git.
+Continuous Integration and Continuous Deployment (CI/CD).&lt;/p&gt;
+&lt;p&gt;3)Add achievements to the site.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;List of achievements.
+    Add information about skills (Skills).
+    Add information about experience (Experience).
+    Add information about achievements (Accomplishments).
+Make a post last week.
+Add a post on a topic of your choice:
+    Lightweight markup languages.
+    markup languages. LaTeX.
+    Markdown language.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;4)Add links to scientific and bibliometric resources to the site.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Register on the relevant resources and place links to them on the site:
+    eLibrary: https://elibrary.ru/;
+    Google Scholar: https://scholar.google.com/;
+    ORCID: https://orcid.org/;
+    Mendeley : https://www.mendeley.com/;
+    ResearchGate: https://www.researchgate.net/;
+    academia.edu: https://www.academia.edu/;
+    arXiv : https://arxiv.org/;
+    github : https://github.com/.
+Make a post last week.
+Add a post on a topic of your choice:
+    Report formatting.
+    Creation of presentations.
+    Bibliography work.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;5)Add all other elements from the site.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Make notes for personal projects.
+Make a post last week.
+Add a post on a topic of your choice.
+    Scientific programming languages.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;6)Hosting a bilingual site on Github.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Make support for English and Russian languages.
+Place site elements in both languages.
+Post content in both languages.
+Make a post last week.
+Add a post on a topic of your choice (in two languages).
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
